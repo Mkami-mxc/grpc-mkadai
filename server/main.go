@@ -8,7 +8,7 @@ import (
 	"strings"
 	"sync"
 
-	pb "github.com/matope/grpc-kvs/proto"
+	pb "github.com/Mkami-mxc/grpc-mkadai/proto"
 	"golang.org/x/net/context"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/codes"
